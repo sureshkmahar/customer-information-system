@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="csc" />
+        <module name="billing" />
+        <module name="nsc" />
+        <module name="dnd" />
+        <module name="metering" />
+        <module name="mis" />
+        <module name="collection" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="billing" target="1.5" />
+      <module name="collection" target="1.5" />
+      <module name="csc" target="1.5" />
+      <module name="customer-information-system" target="1.5" />
+      <module name="dnd" target="1.5" />
+      <module name="metering" target="1.5" />
+      <module name="mis" target="1.5" />
+      <module name="nsc" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
