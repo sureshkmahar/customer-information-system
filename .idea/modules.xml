@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/billing/billing.iml" filepath="$PROJECT_DIR$/billing/billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csc/csc.iml" filepath="$PROJECT_DIR$/csc/csc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-information-system.iml" filepath="$PROJECT_DIR$/customer-information-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnd/dnd.iml" filepath="$PROJECT_DIR$/dnd/dnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metering/metering.iml" filepath="$PROJECT_DIR$/metering/metering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mis/mis.iml" filepath="$PROJECT_DIR$/mis/mis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nsc/nsc.iml" filepath="$PROJECT_DIR$/nsc/nsc.iml" />
+    </modules>
+  </component>
+</project>
